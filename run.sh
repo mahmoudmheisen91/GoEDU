@@ -1,3 +1,9 @@
 # Basic script to run code
-cd gobyexample
-go run vars.go
+# go build hello-world.go
+# ./hello-world
+
+# example run:
+# ./run.sh gobyexample value
+
+cd $1
+go run $2.go
