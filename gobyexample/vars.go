@@ -12,5 +12,5 @@ func main() {
 	d = 8
 	var e, f int = 9, 10 // with all
 
-	fmt.Println(a, b, c, d, e, f)
+	fmt.Println(a, b, c, d, e, f, l)
 }

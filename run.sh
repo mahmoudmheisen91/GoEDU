@@ -5,5 +5,5 @@
 # example run:
 # ./run.sh gobyexample value
 
-cd $1
+cd go$1
 go run $2.go
